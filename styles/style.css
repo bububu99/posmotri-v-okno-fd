@@ -164,7 +164,7 @@ ol {
 .button {
   border: 1px solid #fff;
   background-color: transparent;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 100%;
